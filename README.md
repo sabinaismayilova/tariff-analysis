@@ -8,7 +8,7 @@ This started as an assignment given by an instructor: a raw subscriber dataset a
 
 It's a small project, but everything in it (the formulas, the pivot tables, the charts, the written analysis) is my own work, done to practice a realistic analyst workflow: understand the business question → build the supporting data → summarize it → say what it means → make a recommendation.
 
-![Summary tab — the case and my approach](images/summary.png)
+![Summary tab — the case and my approach](summary.png)
 
 
 
@@ -47,28 +47,27 @@ Download `Telecom_Dichotomy_Designing_Optimal_Product_Sabina_Ismayilova.xlsx` an
 
 ## Repository Structure
 
-├── README.md
-├── Telecom_Dichotomy_Designing_Optimal_Product_Sabina_Ismayilova.xlsx
-└── images/
-├── dashboard.png
-├── bar-chart.png
-├── histogram.png
-├── boxwhisker.png
-└── summary.png
+- `README.md`
+- `Telecom_Dichotomy_Designing_Optimal_Product_Sabina_Ismayilova.xlsx`
+- `dashboard.png`
+- `bar-chart.png`
+- `histogram.png`
+- `boxwhisker.png`
+- `summary.png`
 
 ## Screenshots
 
 **Dashboard overview**
-![Dashboard](images/dashboard.png)
+![Dashboard](dashboard.png)
 
 **Eligible-subscriber revenue by tariff**
-![Bar chart](images/bar-chart.png)
+![Bar chart](bar-chart.png)
 
 **Distribution of subscriber revenue**
-![Histogram](images/histogram.png)
+![Histogram](histogram.png)
 
 **Revenue-difference spread by tariff**
-![Box-and-whisker chart](images/boxwhisker.png)
+![Box-and-whisker chart](boxwhisker.png)
 
 ---
 Sabina Ismayilova
